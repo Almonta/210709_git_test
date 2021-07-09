@@ -15,4 +15,6 @@ module Clockwork
   # every(3.seconds, '3秒毎')
   every(3.minutes, '3分毎')
 
+  every(3.minutes, '追記1')
+
 end
