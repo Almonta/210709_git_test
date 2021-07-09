@@ -19,6 +19,6 @@ module Clockwork
 
   every(3.minutes, '追記2')
 
-  every(3.minutes, '追記3')
+  every(3.minutes, '追記4')
 
 end
